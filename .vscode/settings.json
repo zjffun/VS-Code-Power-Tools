@@ -1,0 +1,12 @@
+{
+  "ego.power-tools": {
+    "commands": {
+      "replace-punctuation": {
+        "script": "./power-tools/replace-punctuation.js",
+        "button": {
+          "text": "replace-punctuation"
+        }
+      }
+    }
+  }
+}
